@@ -1,2 +1,2 @@
 # SENS-
-The code for conformalized multiple testing under unknown null distribution with symmetric errors.
+The R code for conformalized multiple testing under unknown null distribution with symmetric errors.
